@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxmikant Vishwakarma</h1>
-<h3 align="center">One of many <strong>enthusiasts developers</strong> from India</h3>
+<h3 align="center">One of many <i>enthusiasts developers</i> from India</h3>
 
 <img align="left" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
