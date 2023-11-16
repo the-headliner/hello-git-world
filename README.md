@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **laxmikant051096@gmail.com**
 
-- ⚡ Fun fact **"Batman is the real hero"**
+- ⚡ Fun fact **"Batman is the real hero.Period"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
