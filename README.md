@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning **Github and Cloud**
 
-- 💬 Ask me about **C/C++ and DSA**
+- 💬 Ask me about **Python,C/C++a nd DSA and learn Cloud with me.**
 
 - 📫 How to reach me **laxmikant051096@gmail.com**
 
-- ⚡ Fun fact **"Batman is the real hero.Period"**
+- ⚡ Fun fact **"Batman is the real hero. Period"**
+-    It's Not who you're underneath, but what you do that deines you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
